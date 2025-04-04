@@ -1,1 +1,1 @@
-# trial-frontend-code FUCK YOU
+# trial-frontend-code 
