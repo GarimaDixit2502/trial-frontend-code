@@ -1,0 +1,420 @@
+.full-version,
+.full-version * {
+  box-sizing: border-box;
+}
+.full-version {
+  border-radius: 33px;
+  height: 3006px;
+  position: relative;
+  overflow-y: auto;
+}
+.better-way-to-manage-your-money {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 64px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 108px;
+  top: 113px;
+  width: 510px;
+  height: 233px;
+}
+.better-way-to-manage-your-money-span {
+  color: #ffffff;
+  font-family: "Inter-ExtraLightItalic", sans-serif;
+  font-size: 64px;
+  letter-spacing: 0.005em;
+  font-weight: 200;
+  font-style: italic;
+}
+.better-way-to-manage-your-money-span2 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  letter-spacing: 0.005em;
+  font-weight: 700;
+}
+.frame-1 {
+
+    background-blend-mode: screen;
+    background-image: url(./frame-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 702px;
+    width: 949px;
+
+  width: 949px;
+  height: 702px;
+  position: absolute;
+  left: 331px;
+  top: 18px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.pok-10-1 {
+  width: 142px;
+  height: 93px;
+  position: absolute;
+  left: -5px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 142/93;
+}
+.pok-10-2 {
+  width: 318px;
+  height: 207px;
+  position: absolute;
+  left: 316px;
+  top: 2087px;
+  object-fit: cover;
+  aspect-ratio: 318/207;
+}
+.rectangle-1 {
+  background: #ffd95f;
+  border-radius: 40px;
+  width: 347px;
+  height: 69px;
+  position: absolute;
+  left: 108px;
+  top: 409px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #101010;
+  text-align: left;
+  font-family: "LuxuriousRoman-Regular", sans-serif;
+  font-size: 37px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 137px;
+  top: 421px;
+  width: 332px;
+  height: 67px;
+}
+.frame-3 {
+  background: #ffffff;
+  width: 1415px;
+  height: 1191px;
+  position: absolute;
+  left: -13px;
+  top: 720px;
+  overflow-y: auto;
+}
+.effortless-spend-management {
+  color: #000000;
+  text-align: left;
+  font-family: "MontaguSlab-Medium", sans-serif;
+  font-size: 98px;
+  letter-spacing: 0.005em;
+  font-weight: 500;
+  position: absolute;
+  left: 30px;
+  top: 36px;
+  width: 1148px;
+  height: 320px;
+}
+.rectangle-7 {
+  background: linear-gradient(to left, #ffd95f, #ffd95f),
+    linear-gradient(to left, #ffd95f, #ffd95f);
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #262323;
+  border-width: 1px;
+  width: 447px;
+  height: 564px;
+  position: absolute;
+  left: 0px;
+  top: 480px;
+}
+.track-expenses {
+  color: #000000;
+  text-align: left;
+  font-family: "Narnoor-Bold", sans-serif;
+  font-size: 48px;
+  letter-spacing: 0.005em;
+  font-weight: 700;
+  position: absolute;
+  left: 24px;
+  top: 749px;
+  width: 390px;
+  height: 80px;
+}
+.submit-and-monitor-your-business-expenses-with-ease-anytime-and-anywhere {
+  color: #000000;
+  text-align: left;
+  font-family: "Monda-Regular", sans-serif;
+  font-size: 27px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 854px;
+  width: 423px;
+  height: 165px;
+}
+.rectangle-8 {
+  background: linear-gradient(to left, #ffd95f, #ffd95f),
+    linear-gradient(to left, #ffd95f, #ffd95f);
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #262323;
+  border-width: 1px;
+  width: 448px;
+  height: 564px;
+  position: absolute;
+  left: 475px;
+  top: 480px;
+}
+.rectangle-9 {
+  background: linear-gradient(to left, #ffd95f, #ffd95f),
+    linear-gradient(to left, #ffd95f, #ffd95f);
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #262323;
+  border-width: 1px;
+  width: 431px;
+  height: 564px;
+  position: absolute;
+  left: 951px;
+  top: 480px;
+}
+.seamlessly-process-and-approve-invoices-with-powerful-automation-tools {
+  color: #000000;
+  text-align: left;
+  font-family: "Monda-Regular", sans-serif;
+  font-size: 27px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 966px;
+  top: 853px;
+  width: 425px;
+  height: 165px;
+}
+.handle-invoices {
+  color: #000000;
+  text-align: left;
+  font-family: "Narnoor-Bold", sans-serif;
+  font-size: 48px;
+  letter-spacing: 0.005em;
+  font-weight: 700;
+  position: absolute;
+  left: 966px;
+  top: 749px;
+  width: 390px;
+  height: 80px;
+}
+.rectangle-10 {
+  background: linear-gradient(to left, #020100, #020100),
+    linear-gradient(to left, #ffd95f, #ffd95f);
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #262323;
+  border-width: 1px;
+  width: 448.66px;
+  height: 568.23px;
+  position: absolute;
+  left: 451.1px;
+  top: 509.02px;
+  transform-origin: 0 0;
+  transform: rotate(-7.037deg) scale(1, 1);
+}
+.plan-trip {
+  color: #fffcfc;
+  text-align: left;
+  font-family: "Narnoor-ExtraBold", sans-serif;
+  font-size: 55px;
+  letter-spacing: 0.005em;
+  font-weight: 800;
+  position: absolute;
+  left: 563px;
+  top: 950.67px;
+  width: 253.8px;
+  height: 89px;
+  transform-origin: 0 0;
+  transform: rotate(-7.86deg) scale(1, 1);
+}
+.pngtree-wallet-wallet-stick-figure-4440425-1 {
+  width: 149px;
+  height: 149px;
+  position: absolute;
+  left: 47px;
+  top: 493px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.pngtree-vector-receipt-icon-4187172-1 {
+  width: 149px;
+  height: 149px;
+  position: absolute;
+  left: 966px;
+  top: 493px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.pngtree-3-d-pin-map-location-icon-9117037-1 {
+  width: 427.52px;
+  height: 427.52px;
+  position: absolute;
+  left: 464.75px;
+  top: 555.56px;
+  transform-origin: 0 0;
+  transform: rotate(-7.295deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NoticiaText-Bold", sans-serif;
+  font-size: 96px;
+  letter-spacing: 0.005em;
+  font-weight: 700;
+  position: absolute;
+  left: 815px;
+  top: 896.97px;
+  width: 138px;
+  height: 100px;
+  transform-origin: 0 0;
+  transform: rotate(-8.74deg) scale(1, 1);
+}
+.algonite {
+  color: #d5a303;
+  text-align: left;
+  font-family: "NoticiaText-Bold", sans-serif;
+  font-size: 96px;
+  letter-spacing: 0.005em;
+  font-weight: 700;
+  position: absolute;
+  left: 583px;
+  top: 2162px;
+  width: 397px;
+  height: 132px;
+}
+.personal-loan {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 47px;
+  top: 2480px;
+  width: 245px;
+  height: 67px;
+}
+.savings {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 593px;
+  top: 2474px;
+  width: 245px;
+  height: 67px;
+}
+.contact {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 827px;
+  top: 2477px;
+  width: 245px;
+  height: 67px;
+}
+.help {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 1056px;
+  top: 2477px;
+  width: 245px;
+  height: 67px;
+}
+.support {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 1234px;
+  top: 2471px;
+  width: 245px;
+  height: 67px;
+}
+.one-card {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 353px;
+  top: 2477px;
+  width: 245px;
+  height: 67px;
+}
+.send-your-feedback-abc-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 401px;
+  top: 2686px;
+  width: 833px;
+  height: 74px;
+}
+.send-your-feedback-abc-gmail-com-span {
+  color: #ffffff;
+  font-family: "Nokora-Bold", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 700;
+}
+.send-your-feedback-abc-gmail-com-span2 {
+  color: #ffffff;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+}
+.screenshot-2025-04-04-at-1-03-45-am-1 {
+  width: 1460px;
+  height: 187px;
+  position: absolute;
+  left: -45px;
+  top: 2760px;
+  object-fit: cover;
+  aspect-ratio: 1460/187;
+}
+.image-1 {
+  width: 252px;
+  height: 82px;
+  position: absolute;
+  left: 565px;
+  top: 2572px;
+  object-fit: cover;
+  aspect-ratio: 252/82;
+}

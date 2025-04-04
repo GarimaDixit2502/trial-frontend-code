@@ -1,0 +1,144 @@
+.mac-book-air-2,
+.mac-book-air-2 * {
+  box-sizing: border-box;
+}
+.mac-book-air-2 {
+  background: #ffffff;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-2 {
+  background: #ffd95f;
+  border-radius: 60px;
+  width: 557px;
+  height: 790px;
+  position: absolute;
+  left: 666px;
+  top: 21px;
+}
+.password {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoMono-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 694px;
+  top: 267px;
+  width: 211px;
+  height: 28px;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoMono-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 694px;
+  top: 100px;
+  width: 211px;
+  height: 28px;
+}
+.log-in {
+  color: #000000;
+  text-align: center;
+  font-family: "Montaga-Regular", sans-serif;
+  font-size: 53px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 647px;
+  top: 27px;
+  width: 580px;
+  height: 91px;
+}
+.rectangle-3 {
+  background: #fffcf8;
+  border-radius: 41px;
+  width: 502px;
+  height: 61px;
+  position: absolute;
+  left: 694px;
+  top: 167px;
+}
+.rectangle-4 {
+  background: #fffefd;
+  border-radius: 41px;
+  width: 502px;
+  height: 62px;
+  position: absolute;
+  left: 694px;
+  top: 336px;
+}
+.rectangle-6 {
+  background: #1b1915;
+  border-radius: 28px;
+  width: 231px;
+  height: 87px;
+  position: absolute;
+  left: 821px;
+  top: 484px;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-SemiBold", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.005em;
+  font-weight: 600;
+  position: absolute;
+  left: 833px;
+  top: 484px;
+  width: 208px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.forgot-password {
+  color: #22046e;
+  text-align: center;
+  font-family: "OpenSans-SemiBoldItalic", sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.005em;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  left: 573px;
+  top: 414px;
+  width: 453px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.forgot-password-span {
+  color: #22046e;
+  font-family: "OpenSans-SemiBoldItalic", sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.005em;
+  font-weight: 600;
+  font-style: italic;
+  text-decoration: underline;
+}
+.forgot-password-span2 {
+  color: #22046e;
+  font-family: "OpenSans-SemiBoldItalic", sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.005em;
+  font-weight: 600;
+  font-style: italic;
+}
+.frame-2 {
+  width: 666px;
+  height: 601px;
+  position: absolute;
+  left: -23px;
+  top: 259px;
+  overflow: hidden;
+  object-fit: cover;
+}
