@@ -25,6 +25,8 @@
   position: absolute;
   left: 693px;
   top: 152px;
+  font-size: 23px;
+  padding-left: 20px;
 }
 .rectangle-5 {
   background: #fffdfa;
@@ -34,6 +36,8 @@
   position: absolute;
   left: 694px;
   top: 556px;
+  font-size: 23px;
+  padding-left: 20px;
 }
 .confirm-password {
   color: #000000;
@@ -108,6 +112,8 @@
   position: absolute;
   left: 693px;
   top: 283px;
+  font-size: 23px;
+  padding-left: 20px;
 }
 .rectangle-4 {
   background: #fffefd;
@@ -117,6 +123,8 @@
   position: absolute;
   left: 694px;
   top: 412px;
+  font-size: 23px;
+  padding-left: 20px;
 }
 .rectangle-6 {
   background: #1b1915;

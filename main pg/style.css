@@ -19,6 +19,7 @@
   top: 2099px;
   object-fit: cover;
   aspect-ratio: 293/191;
+  
 }
 .frame-3 {
   background: #ffffff;
@@ -308,7 +309,7 @@
 .get-started {
   color: #101010;
   text-align: left;
-  font-family: "LuxuriousRoman-Regular", sans-serif;
+  font-family: "LuxuriousRoman", sans-serif;
   font-size: 37px;
   letter-spacing: 0.005em;
   font-weight: 400;
@@ -318,16 +319,17 @@
   width: 222px;
   height: 67px;
 }
+
+
 .div2 {
   color: #000000;
   text-align: left;
-  font-family: "MaidenOrange-Regular", sans-serif;
   font-size: 64px;
   letter-spacing: 0.005em;
   font-weight: 400;
   position: absolute;
   left: 369px;
-  top: 645px;
+  top: 625px;
   width: 84px;
   height: 63px;
 }
