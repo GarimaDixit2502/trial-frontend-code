@@ -4,118 +4,42 @@
 }
 .full-version {
   border-radius: 33px;
-  height: 3006px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  height: 2774px;
   position: relative;
-  overflow-y: auto;
-}
-.better-way-to-manage-your-money {
-  color: #ffffff;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 64px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 108px;
-  top: 113px;
-  width: 510px;
-  height: 233px;
-}
-.better-way-to-manage-your-money-span {
-  color: #ffffff;
-  font-family: "Inter-ExtraLightItalic", sans-serif;
-  font-size: 64px;
-  letter-spacing: 0.005em;
-  font-weight: 200;
-  font-style: italic;
-}
-.better-way-to-manage-your-money-span2 {
-  color: #ffffff;
-  font-family: "Inter-Bold", sans-serif;
-  font-size: 64px;
-  letter-spacing: 0.005em;
-  font-weight: 700;
-}
-.frame-1 {
-
-    background-blend-mode: screen;
-    background-image: url(./frame-1.png);
-    background-position: 50% 50%;
-    background-size: cover;
-    height: 702px;
-    width: 949px;
-
-  width: 949px;
-  height: 702px;
-  position: absolute;
-  left: 331px;
-  top: 18px;
   overflow: hidden;
-  object-fit: cover;
-}
-.pok-10-1 {
-  width: 142px;
-  height: 93px;
-  position: absolute;
-  left: -5px;
-  top: 0px;
-  object-fit: cover;
-  aspect-ratio: 142/93;
 }
 .pok-10-2 {
-  width: 318px;
-  height: 207px;
+  width: 293px;
+  height: 191px;
   position: absolute;
-  left: 316px;
-  top: 2087px;
+  left: 288px;
+  top: 2099px;
   object-fit: cover;
-  aspect-ratio: 318/207;
-}
-.rectangle-1 {
-  background: #ffd95f;
-  border-radius: 40px;
-  width: 347px;
-  height: 69px;
-  position: absolute;
-  left: 108px;
-  top: 409px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
-    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.get-started {
-  color: #101010;
-  text-align: left;
-  font-family: "LuxuriousRoman-Regular", sans-serif;
-  font-size: 37px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 137px;
-  top: 421px;
-  width: 332px;
-  height: 67px;
+  aspect-ratio: 293/191;
 }
 .frame-3 {
   background: #ffffff;
-  width: 1415px;
+  width: 1380px;
   height: 1191px;
   position: absolute;
-  left: -13px;
-  top: 720px;
+  left: -17px;
+  top: 938px;
   overflow-y: auto;
 }
-.effortless-spend-management {
+.effortless-money-management {
   color: #000000;
   text-align: left;
-  font-family: "MontaguSlab-Medium", sans-serif;
-  font-size: 98px;
+  font-family: "Montaga-Regular", sans-serif;
+  font-size: 111px;
   letter-spacing: 0.005em;
-  font-weight: 500;
+  font-weight: 400;
   position: absolute;
-  left: 30px;
-  top: 36px;
-  width: 1148px;
-  height: 320px;
+  left: calc(50% - 659px);
+  top: 73px;
+  width: 868px;
 }
 .rectangle-7 {
   background: linear-gradient(to left, #ffd95f, #ffd95f),
@@ -290,88 +214,10 @@
   letter-spacing: 0.005em;
   font-weight: 700;
   position: absolute;
-  left: 583px;
-  top: 2162px;
+  left: 520px;
+  top: 2158px;
   width: 397px;
   height: 132px;
-}
-.personal-loan {
-  color: #b5ac97;
-  text-align: left;
-  font-family: "Nokora-Regular", sans-serif;
-  font-size: 32px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 47px;
-  top: 2480px;
-  width: 245px;
-  height: 67px;
-}
-.savings {
-  color: #b5ac97;
-  text-align: left;
-  font-family: "Nokora-Regular", sans-serif;
-  font-size: 32px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 593px;
-  top: 2474px;
-  width: 245px;
-  height: 67px;
-}
-.contact {
-  color: #b5ac97;
-  text-align: left;
-  font-family: "Nokora-Regular", sans-serif;
-  font-size: 32px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 827px;
-  top: 2477px;
-  width: 245px;
-  height: 67px;
-}
-.help {
-  color: #b5ac97;
-  text-align: left;
-  font-family: "Nokora-Regular", sans-serif;
-  font-size: 32px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 1056px;
-  top: 2477px;
-  width: 245px;
-  height: 67px;
-}
-.support {
-  color: #b5ac97;
-  text-align: left;
-  font-family: "Nokora-Regular", sans-serif;
-  font-size: 32px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 1234px;
-  top: 2471px;
-  width: 245px;
-  height: 67px;
-}
-.one-card {
-  color: #b5ac97;
-  text-align: left;
-  font-family: "Nokora-Regular", sans-serif;
-  font-size: 32px;
-  letter-spacing: 0.005em;
-  font-weight: 400;
-  position: absolute;
-  left: 353px;
-  top: 2477px;
-  width: 245px;
-  height: 67px;
 }
 .send-your-feedback-abc-gmail-com {
   color: #ffffff;
@@ -381,9 +227,10 @@
   letter-spacing: 0.005em;
   font-weight: 400;
   position: absolute;
-  left: 401px;
-  top: 2686px;
-  width: 833px;
+  left: 50%;
+  translate: -50%;
+  top: 2624px;
+  width: 590px;
   height: 74px;
 }
 .send-your-feedback-abc-gmail-com-span {
@@ -400,21 +247,172 @@
   letter-spacing: 0.005em;
   font-weight: 400;
 }
-.screenshot-2025-04-04-at-1-03-45-am-1 {
-  width: 1460px;
-  height: 187px;
+.frame-4 {
+  width: 1369px;
+  height: 983px;
   position: absolute;
-  left: -45px;
-  top: 2760px;
-  object-fit: cover;
-  aspect-ratio: 1460/187;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
 }
-.image-1 {
-  width: 252px;
-  height: 82px;
+.better-way-to-manage-your-money {
+  color: #ffffff;
+  text-align: left;
   position: absolute;
-  left: 565px;
-  top: 2572px;
+  left: 106px;
+  top: 116px;
+  width: 876px;
+  height: 406px;
+}
+.better-way-to-manage-your-money-span {
+  color: #ffffff;
+  font-family: "Fraunces-Bold", sans-serif;
+  font-size: 100px;
+  letter-spacing: 0.005em;
+  font-weight: 700;
+}
+.better-way-to-manage-your-money-span2 {
+  color: #ffffff;
+  font-family: "FrederickaTheGreat-Regular", sans-serif;
+  font-size: 64px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+}
+.better-way-to-manage-your-money-span3 {
+  color: #ffffff;
+  font-family: "FrederickaTheGreat-Regular", sans-serif;
+  font-size: 111px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+}
+.pok-10-1 {
+  width: 142.69px;
+  height: 93px;
+  position: absolute;
+  left: -17px;
+  top: 0px;
   object-fit: cover;
-  aspect-ratio: 252/82;
+  aspect-ratio: 142.69/93;
+}
+.rectangle-1 {
+  background: #ffd95f;
+  border-radius: 40px;
+  width: 347px;
+  height: 69px;
+  position: absolute;
+  left: 106px;
+  top: 629px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #101010;
+  text-align: left;
+  font-family: "LuxuriousRoman-Regular", sans-serif;
+  font-size: 37px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 126px;
+  top: 643px;
+  width: 222px;
+  height: 67px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "MaidenOrange-Regular", sans-serif;
+  font-size: 64px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 369px;
+  top: 645px;
+  width: 84px;
+  height: 63px;
+}
+.savings {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 132px;
+  top: 2392px;
+  width: 127px;
+  height: 67px;
+}
+.personal-loan {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 323px;
+  top: 2395px;
+  width: 245px;
+  height: 67px;
+}
+.one-card {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 613px;
+  top: 2395px;
+  width: 156px;
+  height: 36px;
+}
+.contact {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 833px;
+  top: 2395px;
+  width: 137px;
+  height: 30px;
+}
+.help {
+  color: #b5ac97;
+  text-align: left;
+  font-family: "Nokora-Regular", sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+  position: absolute;
+  left: 1058px;
+  top: 2395px;
+  width: 124px;
+  height: 67px;
+}
+.image-2 {
+  border-radius: 12px;
+  width: 216px;
+  height: 64px;
+  position: absolute;
+  left: calc(50% - 275px);
+  top: 2499px;
+  object-fit: cover;
+  aspect-ratio: 216/64;
+}
+.image-3 {
+  border-radius: 12px;
+  width: 229.46px;
+  height: 64px;
+  position: absolute;
+  left: calc(50% - 36px);
+  top: 2499px;
+  object-fit: cover;
+  aspect-ratio: 229.46/64;
 }

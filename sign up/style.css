@@ -17,8 +17,16 @@
   left: 666px;
   top: 21px;
 }
+.rectangle-7 {
+  background: #fffcf8;
+  border-radius: 41px;
+  width: 502px;
+  height: 61px;
+  position: absolute;
+  left: 693px;
+  top: 152px;
+}
 .rectangle-5 {
-  
   background: #fffdfa;
   border-radius: 41px;
   width: 502px;
@@ -26,25 +34,6 @@
   position: absolute;
   left: 694px;
   top: 556px;
-}
-.input-field {
-  width: 502px;
-  max-width: 502px; /* Adjust this to match the larger rectangle */
-  height: 63px;
-  border-radius: 41px; /* Curved edges */
-  font-size: 30px;
-  background-color: #fffdfa;
-  outline: none;
-  position: absolute;
-  left: 694px;
-  top: 556px;
-  height: 63px;
-}
-
-.small-input {
-  height: 45px; /* Make it the same height as the larger field */
-  width: 100%;
-  max-width: 400px; /* Same width as the below rectangle */
 }
 .confirm-password {
   color: #000000;
@@ -112,15 +101,6 @@
   height: 35px;
 }
 .rectangle-3 {
-  background: #fffefc;
-  border-radius: 41px;
-  width: 501px;
-  height: 66px;
-  position: absolute;
-  left: 694px;
-  top: 149px;
-}
-.rectangle-32 {
   background: #fffcf8;
   border-radius: 41px;
   width: 502px;
